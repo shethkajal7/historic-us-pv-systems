@@ -326,5 +326,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-st.markdown('<p class="attrib">This webpage was created and Co-Author by <b>Sheth Kajal</b>,<b>Tim Townsend</b> 😊</p>',
+st.markdown('<p class="attrib">This webpage was created and Co-Author by <b>Tim Townsend</b>, <b>Sheth Kajal</b>, <b>Kenneth Sauer</b> 😊</p>',
             unsafe_allow_html=True)
